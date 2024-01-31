@@ -1,0 +1,10 @@
+names:
+- pistol
+nc: 1
+train: C:/Users/Nexcore/PycharmProjects/pythonProject4/datasets/train.txt
+val: C:/Users/Nexcore/PycharmProjects/pythonProject4/datasets/val.txt
+
+
+
+
+
